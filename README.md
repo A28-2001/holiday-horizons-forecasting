@@ -19,11 +19,11 @@ DatasetSourceDescriptionDomestic AirfareBureau of Transportation Statistics (BTS
 
 Methodology
 
-Data ingestion — Ingested pollution and airfare datasets via SQL queries
-ETL pipeline — Cleaned and integrated multi-source datasets using Python (Pandas)
-EDA — Explored before/on/after holiday dynamics across all four factors
-Forecasting — Built Power BI predictive models tuned against historical travel data
-Visualization — Developed interactive Power BI dashboards for trend analysis and forecasting
+Data ingestion:  Ingested pollution and airfare datasets via SQL queries
+ETL pipeline cleaned and integrated multi-source datasets using Python (Pandas)
+EDA Explored before/on/after holiday dynamics across all four factors
+Forecasting Built Power BI predictive models tuned against historical travel data
+Visualization: Developed interactive Power BI dashboards for trend analysis and forecasting
 
 
 Key Insights
